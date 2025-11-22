@@ -1,5 +1,5 @@
 ** MyFirstRepo**
 
-The repository is all about my introduction 
+“This is my first repository created as part of a GitHub learning task” 
 
 ##MyFirstRepo
